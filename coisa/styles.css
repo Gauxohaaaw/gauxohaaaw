@@ -1,13 +1,12 @@
 body {
     background-color:aqua;
     color: gold;
-      font-family: "Anton", sans-serif;
+    font-family: "Anton", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 700px;
-
-
+    margin: 0;
 
 
 
