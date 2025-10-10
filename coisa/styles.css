@@ -16,11 +16,13 @@ button{
     font-family:"Anton", sans-serif ;
 
 
-
-
-
-
 }
+
+.passo{
+    display: none;
+}
+
+
 
 
 
