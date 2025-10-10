@@ -1,5 +1,5 @@
 body {
-    background-color:aqua;
+    background-color:rgb(64, 6, 170);
     color: gold;
     font-family: "Anton", sans-serif;
     display: flex;
@@ -11,7 +11,7 @@ body {
 }
 button{
 
-    background-color:aquamarine ;
+    background-color:rgb(224, 28, 241) ;
     color:gold;
     font-family:"Anton", sans-serif ;
 
